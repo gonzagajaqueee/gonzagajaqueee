@@ -1,21 +1,17 @@
 <h1 align="center">Jaqueline Gonzaga</h1>
 <h3 align="center">Senior Mobile Developer • React Native • Accessibility</h3>
 
-<p align="center">
-  Este profile faz parte do ambiente corporativo da <strong>MaisTODOS</strong> e é utilizado exclusivamente para fins profissionais.
-</p>
-
 ---
 
 ## Sobre
 
-Sou desenvolvedora mobile sênior atuando na **MaisTODOS**, com foco no desenvolvimento e manutenção de aplicações móveis escaláveis, performáticas e acessíveis.  
+Sou desenvolvedora mobile sênior, com foco no desenvolvimento e manutenção de aplicações móveis escaláveis, performáticas e acessíveis.  
 Tenho experiência em projetos de médio e grande porte, colaborando diretamente com times de produto, design, QA e backend, sempre alinhando decisões técnicas aos objetivos do negócio.
 
 Atuo com **React Native e TypeScript**, aplicando boas práticas de engenharia, acessibilidade mobile e arquitetura, além de contribuir ativamente em code reviews, decisões técnicas e evolução contínua do produto.
 
 Este GitHub é utilizado para:
-- Desenvolvimento de features e correções relacionadas aos produtos da MaisTODOS
+- Desenvolvimento de features e correções
 - Provas de conceito técnicas
 - Documentação interna e apoio a iniciativas do time mobile
 
